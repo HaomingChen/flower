@@ -1,0 +1,4 @@
+<!--pages/welcome/welcome.wxml-->
+<image class="user-avatar" src="/images/avatar/1.png"></image>
+<text>Hello, 七月</text>
+<button>开启小程序之旅</button>
